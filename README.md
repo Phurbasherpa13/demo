@@ -1,3 +1,3 @@
 # demo
 This is my first demo 
-Author- Phurba Sherpa
+Author- Phurba (hero)
